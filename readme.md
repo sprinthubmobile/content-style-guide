@@ -1,4 +1,4 @@
-# Welcome to the Mailchimp Content Style Guide
+# Welcome to the Sprinthub Content Style Guide
 
 This style guide is primarily for Sprinthub employees, but we hope it’s helpful to other organizations as well.
 
