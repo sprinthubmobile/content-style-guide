@@ -3,17 +3,15 @@ title: Writing for Translation
 layout: article
 ---
 
-Mailchimp serves millions of users in hundreds of countries and territories, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
+Sprinthub shares content to thousand of subscribers in hundreds of countries and territories, not just the Nigeria. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
 
-We call the process of writing copy for translation “internationalization.” This section will address things you can do to help international audiences, including translators, better comprehend your text.
+We call the process of writing copy for translation “internationalization.” This section will address things you can do to help international audience, including translators, better comprehend your text.
 
 ## Basics
 
-Our [Technical Content](http://mailchimp.com/help/) is available to all users in English, Spanish, French, German, and Portuguese. Sometimes other pieces of content will be translated as well.
+We try to write all of our content in standard, straightforward English that can be understood by audience with limited English proficiency. It's much easier for a translator to clearly communicate ideas written in straightforward, uncomplicated sentences.
 
-We try to write all of our content in standard, straightforward English that can be understood by users with limited English proficiency. It's much easier for a translator to clearly communicate ideas written in straightforward, uncomplicated sentences.
-
-Here are some guiding principles for writing for international audiences:
+Here are some guiding principles for writing for international audience:
 
 * **Use [active voice](/04-grammar-and-mechanics.html.md/#header-3-active-voice).** We always aim for this, but it's especially important when writing for translation.
 
@@ -23,11 +21,11 @@ Here are some guiding principles for writing for international audiences:
 
 ## Guidelines
 
-When writing for international audiences, we generally follow what's outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
+When writing for international audience, we generally follow what's outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
 
 ### Consider cultural differences
 
-Mailchimp’s voice is conversational and informal. However, in some cultures, informal text may be considered offensive. Check with your translator to see if this is the case for the particular language you’re writing for.
+Sprinthub’s voice is conversational and informal. However, in some cultures, informal text may be considered offensive. Check with your translator to see if this is the case for the particular language you’re writing for.
 
 The translation company should give the option to translate in a formal or informal tone, if the language allows for it. (For example, in Spanish, it is possible to write informally where tú = you or formally where usted = you.)
 
@@ -44,23 +42,23 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Repeat helping verbs belonging to multiple verbs
 
-  - Yes: Mailchimp can send your campaign on the fly or can schedule your campaign to go out at a set time.
-  - No: Mailchimp can send your campaign on the fly or schedule your campaign to go out at a set time.
+  - Yes: Sprinthub can send your campaign on the fly or can schedule your campaign to go out at a set time.
+  - No: Sprinthub can send your campaign on the fly or schedule your campaign to go out at a set time.
 
 #### Repeat subjects and verbs
 
-  - Yes: Mandrill sends transactional emails, but Mailchimp does not.
-  - No: Mandrill sends transactional emails, but not Mailchimp.
+  - Yes: Mandrill sends transactional emails, but Sprinthub does not.
+  - No: Mandrill sends transactional emails, but not Sprinthub.
 
 #### Repeat markers in a list or series
 
-  - Yes: Use Mailchimp to send email campaigns, to manage your mailing lists, and to integrate with other applications.
-  - No: Use Mailchimp to send email campaigns, manage your mailing lists, and integrate with other applications.
+  - Yes: Use Sprinthub to send email campaigns, to manage your mailing lists, and to integrate with other applications.
+  - No: Use Sprinthub to send email campaigns, manage your mailing lists, and integrate with other applications.
 
 #### Leave in words like “then,” “a,” “the,” “to,” and “that," even if you think they could be cut
 
-- Yes: If there is not a list set up in your Mailchimp account, then you’ll need to create a list before sending your first campaign.
-- No: If there is not a list set up in your Mailchimp account, you’ll need to create a list before sending your first campaign.
+- Yes: If there is not a list set up in your Sprinthub account, then you’ll need to create a list before sending your first campaign.
+- No: If there is not a list set up in your Sprinthub account, you’ll need to create a list before sending your first campaign.
 - Yes: When sending a campaign, it is necessary to have a “From:” name, a “From:” address, and a subject line.
 - No: When sending a campaign, it is necessary to have a “From:” name, “From:” address, and subject line.
 - Yes: Be sure that you are truly ready to send your campaign before clicking the “Send Now” button.
@@ -72,8 +70,8 @@ Many words, parts of speech, and grammar mechanics we don’t think twice about 
 
 #### Avoid unclear pronoun references
 
-- Yes: Many believe that buying a list of email addresses and sending to the list through Mailchimp is OK. Such action can actually cause high rates of abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
-- No: Many believe that buying a list of email addresses and sending to the list through Mailchimp is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
+- Yes: Many believe that buying a list of email addresses and sending to the list through Sprinthub is OK. Such action can actually cause high rates of abuse, bounces, and unsubscribes. Purchasing a list and sending to it may cause your account to be suspended.
+- No: Many believe that buying a list of email addresses and sending to the list through Sprinthub is okay. This can actually cause high rates of abuse, bounces, and unsubscribes. It can ultimately cause your account to be suspended.
 
 #### Avoid -ing words
 
@@ -133,7 +131,7 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 **“Require” plus an infinitive** (could confuse the relationship between subject and object)
 
 - Yes: Autoresponders can be configured and sent from paid accounts.
-- No: A paid account is required to send autoresponders. (This could imply that users with paid accounts are required to send autoresponders.)
+- No: A paid account is required to send autoresponders. (This could imply that audience with paid accounts are required to send autoresponders.)
 
 **“Has” or “have” plus past participle** (could confuse the relationship between subject and object)
 

@@ -3,7 +3,7 @@ title: TL;DR
 layout: article
 ---
 
-The Mailchimp Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
+The Sprinthub Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
 
 ## Principles
 
@@ -16,7 +16,7 @@ Good content is:
 
 ## Voice and tone
 
-Mailchimp’s voice is:
+Sprinthub’s voice is:
 
 * Human
 * Familiar
@@ -25,7 +25,7 @@ Mailchimp’s voice is:
 
 Our tone changes depending on the situation, but it's generally informal. We have a sense of humor, but we value clarity over entertainment.
 
-Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
+Our priorities are to educate our audience about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
 ## Writing about people
 

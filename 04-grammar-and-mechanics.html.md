@@ -43,7 +43,7 @@ Words like “was” and “by” may indicate that you’re writing in passive 
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
-- Your account was flagged by our Abuse team.
+- Your app was flagged by Apple's Review team.
 
 ### Capitalization
 
@@ -51,8 +51,8 @@ We use a few different forms of capitalization. Title case capitalizes the first
 
 When writing out an email address or website URL, use all lowercase.
 
-- freddie@mailchimp.com
-- mailchimp.com
+- tobi@sprinthubmobile.com
+- sprinthubmobile.com
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
@@ -128,15 +128,15 @@ When writing about US currency, use the dollar sign before the amount. Include a
 
 When writing about other currencies, follow the same symbol-amount format:
 
-- ¥1
+- ₦1
 - €1
 
 #### Telephone numbers
 
 Use dashes without spaces between numbers. Use a country code if your reader is in another country.
 
-- 555-867-5309
-- +1-404-123-4567
+- 803-867-5309
+- +234-704-123-4567
 
 #### Temperature
 
@@ -155,7 +155,7 @@ Use a hyphen between times to indicate a time period. 
 
 - 7 am–10:30 pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since Mailchimp is in Atlanta, we default to ET.
+Specify time zones when writing about an event or something else people would need to schedule. Since Sprinthub is in Atlanta, we default to ET.
 
 Abbreviate time zones within the continental United States as follows:
 
@@ -202,8 +202,8 @@ You can also use a colon to join 2 related phrases. If a complete sentence follo
 
 When writing a list, use the serial comma (also known as the Oxford comma). 
 
-- Yes: David admires his parents, Oprah, and Justin Timberlake.
-- No: David admires his parents, Oprah and Justin Timberlake.
+- Yes: David admires his parents, Linda, and Goodluck Jonathan.
+- No: David admires his parents, Linda and Goodluck Jonathan.
 
 Otherwise, use common sense. If you’re unsure, read the sentence out loud. Where you find yourself taking a breath, use a comma.
 
@@ -303,7 +303,7 @@ For more on writing about gender, see [Writing about people](/03-writing-about-p
 
 When quoting someone in a blog post or other publication, use the present tense.
 
-- “Using Mailchimp has helped our business grow,” says Jamie Smith.
+- “Working with Sprinthub has helped our business grow,” says Jamie Smith.
 
 #### Names and titles
 
@@ -312,7 +312,7 @@ The first time you mention a person in writing, refer to them by their first and
 Capitalize the names of departments and teams (but not the word "team" or "department").
 
 - Marketing team
-- Support department
+- Engineering department
 
 Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
 
@@ -325,14 +325,14 @@ Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless 
 
 The first time you mention a school, college, or university in a piece of writing, refer to it by its full official name. On all other mentions, use its more common abbreviation.
 
-- Georgia Institute of Technology, Georgia Tech
-- Georgia State University, GSU
+- University of Port Harcourt, Uniport
+- Lagos State University, LASU
 
 #### States, cities, and countries
 
 Spell out all city and state names. Don’t abbreviate city names.
 
-Per AP Style, all cities should be accompanied by their state, with the exception of: Atlanta, Baltimore, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Las Vegas, Los Angeles, Miami, Milwaukee, Minneapolis, New Orleans, New York, Oklahoma City, Philadelphia, Phoenix, Pittsburgh, St. Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Seattle, Washington.
+Per AP Style, all cities should be accompanied by their state, with the exception of: Abuja, Baltimore, Benin, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Las Vegas, Los Angeles, Miami, Milwaukee, Minneapolis, New Orleans, New York, Onitsha, Philadelphia, Phoenix, Pittsburgh, St. Louis, Salt Lake City, San Antonio, San Diego, San Francisco, Seattle, Washington.
 
 On first mention, write out United States. On subsequent mentions, US is fine. The same rule applies to any other country or federation with a common abbreviation (European Union, EU; United Kingdom, UK).
 
@@ -342,22 +342,20 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about Mailchimp
+#### Writing about Sprinthub
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "Mailchimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "Mailchimp."
+Our company's legal entity name is "Sprint Innovation Hub Ltd." Our trade name is "Sprinthub." Use "Sprint Innovation Hub Ltd." only when writing legal documents or contracts. Otherwise, use "Sprinthub" or "Sprinthub Mobile."
 
-Always capitalize the first “M” and lowercase the “c” in Mailchimp.
+Always capitalize the first “S” and the “M” in Sprinthub Mobile.
 
-Refer to Mailchimp as “we,” not “it.”
+Refer to Sprinthub as “we,” not “it.”
 
-Capitalize branded terms, like Mailchimp Presents. We also capitalize pricing plan names (Premium, Standard, Essentials, and Free) to distinguish them from generic use of those adjectives.
+Capitalize branded terms, like Sprinthub Presents.
 
 Don’t capitalize descriptive product or feature names, like email or landing pages. 
 
-- Mandrill
 - templates
-- Mailchimp’s mobile app
-- Essentials plan
+- Sprinthub’s mobile app
 
 #### Writing about other companies
 
@@ -373,7 +371,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- Mailchimp's Ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
+- Sprinthub's Ops team is constantly scaling our servers to make sure our audience have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
@@ -382,7 +380,7 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use italics when citing an example of an in-app Mailchimp element, or referencing button and navigation labels in step-by-step instructions:
+Use italics when citing an example of an in-app element, or referencing button and navigation labels in step-by-step instructions:
 
 - When you're all done, click *Send*.
 - The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.

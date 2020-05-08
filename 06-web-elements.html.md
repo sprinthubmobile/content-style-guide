@@ -58,7 +58,7 @@ Use title case, unless the heading is a punctuated sentence. If the heading is a
 
 ### Links
 
-Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content and trusted external resources.
+Provide a link whenever you’re referring to something on an external website. Use links to point audience to relevant content and trusted external resources.
 
 Don’t include preceding articles (a, an, the, our) when you link text. For example:
 

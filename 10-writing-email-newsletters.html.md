@@ -3,19 +3,17 @@ title: Writing Email Newsletters
 layout: article
 ---
 
-We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
+We send a lot of emails. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
 ## Basics
 
-Our email newsletters help empower and inform Mailchimp users. Here are the most common types of content we send by email:
+Our email newsletters help empower and inform Sprinthub audience. Here are the most common types of content we send by email:
 
-- Product and feature announcements
-- Tips for getting the most out of existing products and features
-- Regular monthly newsletters
-- Automated series (Getting Started with Mailchimp)
-- Event invitations and information about online courses
-- System alerts about changes to functionality or scheduled maintenance
-- Internal newsletters
+- Service and company announcements to active customers
+- Regular weekly newsletters
+- Automated sequence (Guiding prospect through Sprinthub's lead nurturing funnel)
+- Payment and Invoice status notifications
+- Request to review our services (to active customers)
 
 ## Guidelines
 
@@ -51,7 +49,7 @@ All campaigns follow [CAN-SPAM rules](https://mailchimp.com/help/terms-of-use-an
 
 ### Consider your perspective
 
-When sending an email newsletter from Mailchimp, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
+When sending an email newsletter from Sprinthub, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
@@ -66,9 +64,9 @@ More than 50 percent of emails are read on a mobile device. Limit links to the m
 Some email clients disable images by default. Include an alt tag to describe the information in the image for people who aren’t able to see it.
 
 ### Segment your audience
-It’s exciting to send to millions of users at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react.
+It’s exciting to send to thousands of subscribers at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react.
 
-Once you've selected an audience, adjust the language to fit their needs. For example, users who developed custom integrations are more likely to understand and appreciate direct, technical terms.
+Once you've selected an audience, adjust the language to fit their needs. For example, audience who developed custom integrations are more likely to understand and appreciate direct, technical terms.
 
 ### Test your campaigns
 Use the preview mode to begin, and run an Inbox Inspection to see your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.
