@@ -20,3 +20,5 @@ We invite you to use and adapt this style guide as you see fit. It’s completel
 We welcome any feedback for improving the guide.
 
 [Sprinthub Content Style Guide on GitHub](https://github.com/sprinthubmobile/content-style-guide)
+
+**Credits:** Our style guide draws from the fantastic work of [Mailchimp](https://styleguide.mailchimp.com)
