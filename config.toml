@@ -1,5 +1,5 @@
 baseURL = "https://styleguide.sprinthubmobile.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sprinthub Content Style Guide"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
