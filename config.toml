@@ -1,5 +1,48 @@
-baseURL = "https://sprinthubmobile.github.io/content-style-guide"
+baseURL = "https://sprinthubmobile.github.io/content-style-guide/"
 languageCode = "en-us"
 title = "Sprinthub Content Style Guide"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Guides"
+    url = "/guides/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/guides/'
+  homepage_button_text = 'Go to the style guide'
+  homepage_intro = 'This style guide was created for Sprinthub employees. It helps us write clear and consistent content across teams and channels.'
+  homepage_image = '/images/home_img_small.jpg'
+
+  ## You can enable to add anchor links to header elements
+  enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "This style guide was created for Sprinthub employees. It helps us write clear and consistent content across teams and channels."
+    meta_og_title = "Sprinthub content style guide."
+    meta_og_type = "website"
+    meta_og_url = "https://sprinthubmobile.github.io/content-style-guide/"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "This style guide was created for Sprinthub employees. It helps us write clear and consistent content across teams and channels."
+    # meta_twitter_card = "summary"
+    # meta_twitter_site = "@zerostaticio"
+    # meta_twitter_creator = "@zerostaticio"
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"

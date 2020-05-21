@@ -18,8 +18,7 @@
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/00-index/</guid>
       <description>This style guide was created for Sprinthub employees, but we hope it’s helpful for other content and communications teams too.
-If you work at Sprinthub This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Sprinthub.
-This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.</description>
+If you work at Sprinthub This is our company style guide.</description>
     </item>
     
     <item>
@@ -28,8 +27,7 @@ This guide goes beyond basic grammar and style points. It’s not traditional in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/15-copyright-and-trademarks/</guid>
-      <description>Copyright is a bundle of exclusive legal rights that vary depending on the type of work. A copyright owner can grant some or all of those rights to others through a license. This section will lay out our approach to copyrights, trademarks, and Creative Commons licenses.
-Basics Copyright protection applies to any original works that are fixed in a tangible medium. This includes works like drawings, recordings of a song, short stories, or paintings, but not something like a garden, since it will grow and change by nature.</description>
+      <description>Copyright is a bundle of exclusive legal rights that vary depending on the type of work. A copyright owner can grant some or all of those rights to others through a license.</description>
     </item>
     
     <item>
@@ -38,8 +36,7 @@ Basics Copyright protection applies to any original works that are fixed in a ta
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/14-creating-structured-content/</guid>
-      <description>At Sprinthub, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published.
-This section lays out when to use a structured content template and how to create a template of your own.</description>
+      <description>At Sprinthub, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier.</description>
     </item>
     
     <item>
@@ -52,16 +49,7 @@ This section lays out when to use a structured content template and how to creat
 18F Content Guide
 Buzzfeed Style Guide
 A List Apart Style Guide
-If you’re working on your own style guide, these resources were helpful to us:
-Accessibility Cheatsheet
-18F Accessibility Guide
-Designing for Screen Reader Compatibility
-Accessible Color Combinations
-WAVE Web Accessibility Evaluation Tool
-The Conscious Style Guide
-GLAAD Media Reference Guide
-Want to adapt our guide to use at your own organization?
-Sprinthub Style Guide on GitHub</description>
+If you’re working on your own style guide, these resources were helpful to us:</description>
     </item>
     
     <item>
@@ -70,8 +58,7 @@ Sprinthub Style Guide on GitHub</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/04-grammar-and-mechanics/</guid>
-      <description>Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you&amp;rsquo;re looking for something in particular.)
-Basics Write for all readers. Some people will read every word you write. Others will just skim.</description>
+      <description>Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide.</description>
     </item>
     
     <item>
@@ -81,9 +68,7 @@ Basics Write for all readers. Some people will read every word you write. Others
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/18-tldr/</guid>
       <description>The Sprinthub Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
-Principles Good content is:
- Clear Useful Friendly Appropriate  Voice and tone Sprinthub’s voice is:
- Human Familiar Friendly Straightforward  Our tone changes depending on the situation, but it&amp;rsquo;s generally informal. We have a sense of humor, but we value clarity over entertainment.</description>
+Principles Good content is:</description>
     </item>
     
     <item>
@@ -92,8 +77,7 @@ Principles Good content is:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/02-voice-and-tone/</guid>
-      <description>One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Sprinthub.
-What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you&amp;rsquo;re out to dinner with your closest friends, and a different tone when you&amp;rsquo;re in a meeting with your boss.</description>
+      <description>One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Sprinthub.</description>
     </item>
     
     <item>
@@ -102,8 +86,7 @@ What’s the difference between voice and tone? Think of it this way: You have t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/06-web-elements/</guid>
-      <description>Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
-Guidelines Alt text Alt text is a way to label images, and it&amp;rsquo;s especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.</description>
+      <description>Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.</description>
     </item>
     
     <item>
@@ -122,7 +105,7 @@ Guidelines Alt text Alt text is a way to label images, and it&amp;rsquo;s especi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/03-writing-about-people/</guid>
-      <description>We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it&amp;rsquo;s important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make Sprinthub a better place to work and a better steward of our values in the world. In this section we&amp;rsquo;ll lay out some guidelines for writing about people with compassion, and share some resources for further learning.</description>
+      <description>We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it&amp;rsquo;s important to write for and about other people in a way that’s compassionate, inclusive, and respectful.</description>
     </item>
     
     <item>
@@ -131,8 +114,7 @@ Guidelines Alt text Alt text is a way to label images, and it&amp;rsquo;s especi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/07-writing-blog-posts/</guid>
-      <description>Sprinthub blog posts are written by people from all over the company, not just those with “writer” or &amp;ldquo;marketer&amp;rdquo; in their job titles. We love having experts from around the company blog about their work. The person most familiar with the subject is in the best position to convey it, and the writers on the marketing team can help with brainstorming and editing as needed.
-We have two Sprinthub blogs, the one written by our engineering for engineers.</description>
+      <description>Sprinthub blog posts are written by people from all over the company, not just those with “writer” or &amp;ldquo;marketer&amp;rdquo; in their job titles. We love having experts from around the company blog about their work.</description>
     </item>
     
     <item>
@@ -141,9 +123,7 @@ We have two Sprinthub blogs, the one written by our engineering for engineers.</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/10-writing-email-newsletters/</guid>
-      <description>We send a lot of emails. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
-Basics Our email newsletters help empower and inform Sprinthub audience. Here are the most common types of content we send by email:
- Service and company announcements to active customers Regular weekly newsletters Automated sequence (Guiding prospect through Sprinthub&amp;rsquo;s lead nurturing funnel) Payment and Invoice status notifications Request to review our services (to active customers)  Guidelines Email newsletters generally follow the style points outlined in the Voice and tone and Grammar and mechanics sections.</description>
+      <description>We send a lot of emails. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.</description>
     </item>
     
     <item>
@@ -152,7 +132,7 @@ Basics Our email newsletters help empower and inform Sprinthub audience. Here ar
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/12-writing-for-accessibility/</guid>
-      <description>We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes audience of all mental and physical capacities, whether situational (broken glasses!</description>
+      <description>We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page.</description>
     </item>
     
     <item>
@@ -161,8 +141,7 @@ Basics Our email newsletters help empower and inform Sprinthub audience. Here ar
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/11-writing-for-social-media/</guid>
-      <description>We use social media to build relationships with Sprinthub audience and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
-Basics Sprinthub has a presence on most major social media platforms. Here are our most active accounts and what we usually post on each:</description>
+      <description>We use social media to build relationships with Sprinthub audience and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand.</description>
     </item>
     
     <item>
@@ -171,9 +150,7 @@ Basics Sprinthub has a presence on most major social media platforms. Here are o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/13-writing-for-translation/</guid>
-      <description>Sprinthub shares content to thousand of subscribers in hundreds of countries and territories, not just the Nigeria. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
-We call the process of writing copy for translation “internationalization.” This section will address things you can do to help international audience, including translators, better comprehend your text.
-Basics We try to write all of our content in standard, straightforward English that can be understood by audience with limited English proficiency.</description>
+      <description>Sprinthub shares content to thousand of subscribers in hundreds of countries and territories, not just the Nigeria. As our user base grows, it becomes more and more important that our content is accessible to people around the world.</description>
     </item>
     
     <item>
@@ -183,8 +160,7 @@ Basics We try to write all of our content in standard, straightforward English t
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/01-writing-principles/</guid>
       <description>With every piece of content we publish, we aim to:
-  Empower. Help people understand Sprinthub by using language that informs them and encourages them to make the most of our products.
-  Respect. Treat readers with the respect they deserve. Put yourself in their shoes, and don’t patronize them. Remember that they have other things to do. Be considerate and inclusive. Don’t market at people; communicate with them.</description>
+  Empower. Help people understand Sprinthub by using language that informs them and encourages them to make the most of our products.</description>
     </item>
     
     <item>
@@ -193,8 +169,7 @@ Basics We try to write all of our content in standard, straightforward English t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sprinthubmobile.github.io/content-style-guide/guides/08-writing-technical-content/</guid>
-      <description>At Sprinthub, technical content appears primarily in our engineering blog, though the marketing lead may decide to move a technical content to our main blog. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
-Basics Someone reading technical content is usually looking to answer a specific question. That question might be broad or narrowly focused, but either way our goal is to provide answers without distraction.</description>
+      <description>At Sprinthub, technical content appears primarily in our engineering blog, though the marketing lead may decide to move a technical content to our main blog. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.</description>
     </item>
     
   </channel>
