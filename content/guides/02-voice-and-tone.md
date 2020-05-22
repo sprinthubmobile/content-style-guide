@@ -13,19 +13,19 @@ The same is true for Sprinthub. Our voice doesn’t change much from day to day,
 
 ## Voice
 
-At Sprinthub, we’ve walked in our customers' shoes, and we know design and software engineering is a minefield of confusing terminology. That’s why we speak like the experienced and compassionate business partner we wish we’d had way back when. 
+At Sprinthub, we’ve walked in our customers' shoes, and we know design and software engineering is a minefield of confusing terminology. That’s why we speak like the experienced and compassionate business partner we wish we’d had way back when.
 
-We treat every hopeful brand seriously. We want to educate people without patronizing or confusing them. 
+We treat every hopeful brand seriously. We want to educate people without patronizing or confusing them.
 
 Using offbeat humor and a conversational voice, we play with language to bring joy to their work. We prefer the subtle over the noisy, the wry over the farcical. We don't take ourselves too seriously.
 
-Whether people know what they need from us or don’t know the first thing about mobile and web apps, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit. 
+Whether people know what they need from us or don’t know the first thing about mobile and web apps, every word we say informs and encourages. We impart our expertise with clarity, empathy, and wit.
 
 All of this means that when we write copy:
 
-1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to Sprinthub to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion. 
+1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to Sprinthub to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion.
 
-2. **We are genuine.** We get small businesses because we were one of them. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way. 
+2. **We are genuine.** We get small businesses because we were one of them. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way.
 
 3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify B2B-speak and actually educate.
 
@@ -39,8 +39,8 @@ Sprinthub has a sense of humor, so feel free to be funny when it’s appropriate
 
 ## Style tips
 
-Here are a few key elements of writing Sprinthub’s voice. For more, see the [Grammar and mechanics section](/04-grammar-and-mechanics.html.md).
+Here are a few key elements of writing Sprinthub’s voice. For more, see the [Grammar and mechanics section]({{< ref "guides/04-grammar-and-mechanics.md" >}}).
 
-* [**Active voice**](/04-grammar-and-mechanics.html.md/#header-3-active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
-* [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
+- [**Active voice**]({{< ref "guides/04-grammar-and-mechanics.md#header-3-active-voice" >}}) Use active voice. Avoid passive voice.
+- [**Avoid slang and jargon**]({{< ref "guides/04-grammar-and-mechanics.md#header-3-slang-and-jargon" >}}) Write in plain English.
+- [**Write positively**]({{< ref "guides/04-grammar-and-mechanics.md#header-3-write-positively" >}}) Use positive language rather than negative language.

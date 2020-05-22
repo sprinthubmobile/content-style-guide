@@ -54,7 +54,7 @@ When writing out an email address or website URL, use all lowercase.
 - tobi@sprinthubmobile.com
 - sprinthubmobile.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List]({{< ref "guides/16-word-list.md" >}}).
 
 - website
 - internet
@@ -63,7 +63,7 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 ### Contractions
 
-They’re great! They give your writing an informal, friendly tone. 
+They’re great! They give your writing an informal, friendly tone.
 
 ### Emoji
 
@@ -123,8 +123,8 @@ Use a hyphen (-) to indicate a range or span of numbers.
 
 When writing about US currency, use the dollar sign before the amount. Include a decimal and number of cents if more than 0.
 
-- $20
-- $19.99
+- \$20
+- \$19.99
 
 When writing about other currencies, follow the same symbol-amount format:
 
@@ -146,12 +146,12 @@ Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
 #### Time
 
-Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time.
 
-- 7 am 
+- 7 am
 - 7:30 pm
 
-Use a hyphen between times to indicate a time period. 
+Use a hyphen between times to indicate a time period.
 
 - 7 am–10:30 pm
 
@@ -200,7 +200,7 @@ You can also use a colon to join 2 related phrases. If a complete sentence follo
 
 #### Commas
 
-When writing a list, use the serial comma (also known as the Oxford comma). 
+When writing a list, use the serial comma (also known as the Oxford comma).
 
 - Yes: David admires his parents, Linda, and Goodluck Jonathan.
 - No: David admires his parents, Linda and Goodluck Jonathan.
@@ -209,7 +209,7 @@ Otherwise, use common sense. If you’re unsure, read the sentence out loud. Whe
 
 #### Dashes and hyphens
 
-Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range. 
+Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
 
 - first-time user
 - Monday-Friday
@@ -239,7 +239,7 @@ Periods go inside quotation marks. They go outside parentheses when the parenthe
 - I ate a donut (and I ate a bagel, too).
 - I ate a donut and a bagel. (The donut was Sam’s.)
 
-Leave a single space between sentences. 
+Leave a single space between sentences.
 
 #### Question marks
 
@@ -297,7 +297,7 @@ When referring to a specific file, the filename should be lowercase:
 
 If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
-For more on writing about gender, see [Writing about people](/03-writing-about-people.html.md).
+For more on writing about gender, see [Writing about people]({{< ref "guides/03-writing-about-people.md" >}}).
 
 #### Quotes
 
@@ -317,7 +317,7 @@ Capitalize the names of departments and teams (but not the word "team" or "depar
 Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
 
 - Our new Marketing Manager starts today.
-- All the managers ate donuts. 
+- All the managers ate donuts.
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
@@ -352,7 +352,7 @@ Refer to Sprinthub as “we,” not “it.”
 
 Capitalize branded terms, like Sprinthub Presents.
 
-Don’t capitalize descriptive product or feature names, like email or landing pages. 
+Don’t capitalize descriptive product or feature names, like email or landing pages.
 
 - templates
 - Sprinthub’s mobile app
@@ -377,13 +377,13 @@ Write in plain English. If you need to use a technical term, briefly define it s
 
 Use italics to indicate the title of a long work (like a book, movie, or album) or to emphasize a word.
 
-- *Dunston Checks In*
-- Brandon *really* loves *Dunston Checks In*.
+- _Dunston Checks In_
+- Brandon _really_ loves _Dunston Checks In_.
 
 Use italics when citing an example of an in-app element, or referencing button and navigation labels in step-by-step instructions:
 
-- When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
+- When you're all done, click _Send_.
+- The familiar A/B testing variables—_Subject line_, _From name_, and _Send time_—have now been joined by _Content_, and up to 3 combinations of a single variable can now be tested at once.
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 

@@ -13,15 +13,15 @@ We try to write all of our content in standard, straightforward English that can
 
 Here are some guiding principles for writing for international audience:
 
-* **Use [active voice](/04-grammar-and-mechanics.html.md/#header-3-active-voice).** We always aim for this, but it's especially important when writing for translation.
+- **Use [active voice]({{< ref "guides/04-grammar-and-mechanics.md#active-voice" >}}).** We always aim for this, but it's especially important when writing for translation.
 
-* **Use the subject-verb-object sentence structure.** It’s not used by all languages, but it’s widely recognized.
+- **Use the subject-verb-object sentence structure.** It’s not used by all languages, but it’s widely recognized.
 
-* **Use positive words when talking about positive situations.** For example, because a question like “Don’t you think she did a great job?” begins with a negative word, a non-native English speaker may interpret its implication as negative. A better version would be “She did a good job, right?”
+- **Use positive words when talking about positive situations.** For example, because a question like “Don’t you think she did a great job?” begins with a negative word, a non-native English speaker may interpret its implication as negative. A better version would be “She did a good job, right?”
 
 ## Guidelines
 
-When writing for international audience, we generally follow what's outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
+When writing for international audience, we generally follow what's outlined in the [Voice and tone]({{< ref "guides/02-voice-and-tone.md" >}}) and [Grammar and mechanics]({{< ref "guides/04-grammar-and-mechanics.md" >}}) sections. But in this section more than others, some style points contradict what's stated elsewhere in the guide. If you’re writing something to be translated, the guidelines in this section should take precedence.
 
 ### Consider cultural differences
 
@@ -37,23 +37,23 @@ Keep your copy brief, but don’t sacrifice clarity for brevity. You may need to
 
 #### Repeat verbs that have multiple subjects.
 
-  - Yes: Customers who have ordered online can pick up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
-  - No: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick up their food.
+- Yes: Customers who have ordered online can pick up their food at the cashier. Walk-in customers should stop by the cashier to order their food.
+- No: Customers who have ordered online or who are walk-ins should stop at the cashier to order or pick up their food.
 
 #### Repeat helping verbs belonging to multiple verbs
 
-  - Yes: Sprinthub can send your campaign on the fly or can schedule your campaign to go out at a set time.
-  - No: Sprinthub can send your campaign on the fly or schedule your campaign to go out at a set time.
+- Yes: Sprinthub can send your campaign on the fly or can schedule your campaign to go out at a set time.
+- No: Sprinthub can send your campaign on the fly or schedule your campaign to go out at a set time.
 
 #### Repeat subjects and verbs
 
-  - Yes: Mandrill sends transactional emails, but Sprinthub does not.
-  - No: Mandrill sends transactional emails, but not Sprinthub.
+- Yes: Mandrill sends transactional emails, but Sprinthub does not.
+- No: Mandrill sends transactional emails, but not Sprinthub.
 
 #### Repeat markers in a list or series
 
-  - Yes: Use Sprinthub to send email campaigns, to manage your mailing lists, and to integrate with other applications.
-  - No: Use Sprinthub to send email campaigns, manage your mailing lists, and integrate with other applications.
+- Yes: Use Sprinthub to send email campaigns, to manage your mailing lists, and to integrate with other applications.
+- No: Use Sprinthub to send email campaigns, manage your mailing lists, and integrate with other applications.
 
 #### Leave in words like “then,” “a,” “the,” “to,” and “that," even if you think they could be cut
 
@@ -83,45 +83,46 @@ Here are some other cases where you might see -ing words, and suggestions for ho
 
 #### Gerunds
 
- - Yes: In this article we will talk about list subscriber collection.
- - No: In this article we will talk about getting list subscribers.
+- Yes: In this article we will talk about list subscriber collection.
+- No: In this article we will talk about getting list subscribers.
 
 #### Adjectives
 
- - Yes: At the top of the page, there is Freddie with a smile on his face.
- - No: At the top of the page, there is a smiling Freddie.
+- Yes: At the top of the page, there is Freddie with a smile on his face.
+- No: At the top of the page, there is a smiling Freddie.
 
 #### Parts of verbs
 
- - Yes: Several developers are currently working on that feature.
- - No: Several developers are working on that feature. (When you can’t easily avoid the -ing word, it may help to add an adverb to clarify the meaning.)
+- Yes: Several developers are currently working on that feature.
+- No: Several developers are working on that feature. (When you can’t easily avoid the -ing word, it may help to add an adverb to clarify the meaning.)
 
 #### Parts of phrases modifying nouns
 
- - Yes: From our backyard, we could hear the planes that took off from the airport.
- - No: From our backyard, we could hear the planes taking off from the airport.
+- Yes: From our backyard, we could hear the planes that took off from the airport.
+- No: From our backyard, we could hear the planes taking off from the airport.
 
 #### Other words and mechanics to avoid
 
-* Slang, idioms, and cliches
-* Shortened words, even if they’re common in English (use “application,” not “app”)
-* Uncommon foreign words (use "genuine,” not “bona fide”)
-* Unnecessary abbreviations (use "for example,” not “e.g.”)
-* Converting one part of speech into another if it isn’t already commonly used (use "Send us an email” instead of “message us”)
-* Non-standard or indirect verb usage (use “he says,” not “he’s like” or “he was all”)
-* Double negatives
-* Synonyms, generally. Don't use a lot of different words for the same thing in a single piece of writing. Instead of mixing it up with “campaign,” “newsletter,” “bulletin,” etc., pick one term and stick with it.
+- Slang, idioms, and cliches
+- Shortened words, even if they’re common in English (use “application,” not “app”)
+- Uncommon foreign words (use "genuine,” not “bona fide”)
+- Unnecessary abbreviations (use "for example,” not “e.g.”)
+- Converting one part of speech into another if it isn’t already commonly used (use "Send us an email” instead of “message us”)
+- Non-standard or indirect verb usage (use “he says,” not “he’s like” or “he was all”)
+- Double negatives
+- Synonyms, generally. Don't use a lot of different words for the same thing in a single piece of writing. Instead of mixing it up with “campaign,” “newsletter,” “bulletin,” etc., pick one term and stick with it.
 
 ### Beware words with multiple meanings
 
 **“Once”** (could mean “one time,” “after,” “in the past,” or “when”)
+
 - Yes: After you log in, you will see your account’s Dashboard.
 - No: Once you log in, you will see your account’s Dashboard.
 
 **“Right”** (could mean “correct,” “the opposite of left,” “politically conservative,” etc.)
 
- - Yes: In the File Manager, click the correct image and drag it to the pane at right.
- - No: In the File Manager, click the right image and drag it to the right pane.
+- Yes: In the File Manager, click the correct image and drag it to the pane at right.
+- No: In the File Manager, click the right image and drag it to the right pane.
 
 **“Since”** (could refer to a point in time, or a synonym of “because”)
 

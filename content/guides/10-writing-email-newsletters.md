@@ -17,7 +17,7 @@ Our email newsletters help empower and inform Sprinthub audience. Here are the m
 
 ## Guidelines
 
-Email newsletters generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional considerations.
+Email newsletters generally follow the style points outlined in the [Voice and tone]({{< ref "guides/02-voice-and-tone.md" >}}) and [Grammar and mechanics]({{< ref "guides/04-grammar-and-mechanics.md" >}}) sections. Here are some additional considerations.
 
 ### Consider all elements
 
@@ -52,21 +52,27 @@ All campaigns follow [CAN-SPAM rules](https://mailchimp.com/help/terms-of-use-an
 When sending an email newsletter from Sprinthub, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
 
 ### Use a hierarchy
+
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
 
 ### Include a call to action
+
 Make the reader's next step obvious, and close each campaign with a call to action. Link to a blog post, event registration, purchase page, or signup page. You can add a button or include a text link in the closing paragraph.
 
 ### Avoid unnecessary links
+
 More than 50 percent of emails are read on a mobile device. Limit links to the most important resources to focus your call to action and prevent errant taps on smaller screens.
 
 ### Use alt text
+
 Some email clients disable images by default. Include an alt tag to describe the information in the image for people who aren’t able to see it.
 
 ### Segment your audience
+
 It’s exciting to send to thousands of subscribers at once, but it’s doubtful that every subscriber is interested in every topic. Segment your list to find a particular audience that’s likely to react.
 
 Once you've selected an audience, adjust the language to fit their needs. For example, audience who developed custom integrations are more likely to understand and appreciate direct, technical terms.
 
 ### Test your campaigns
+
 Use the preview mode to begin, and run an Inbox Inspection to see your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.

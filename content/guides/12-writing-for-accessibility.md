@@ -17,7 +17,7 @@ As you write, consider the following:
 - Is the markup clean and structured?
 - Mobile devices with accessibility features are now the core communication tools, does this work well on them?
 
-Many of the best practices for writing for accessibility echo those for [writing technical content](/08-writing-technical-content.html.md), with the added complexity of markup, syntax, and structure.
+Many of the best practices for writing for accessibility echo those for [writing technical content]({{< ref "guides/08-writing-technical-content.md" >}}), with the added complexity of markup, syntax, and structure.
 
 ## Guidelines
 

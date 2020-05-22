@@ -10,7 +10,7 @@ We use social media to build relationships with Sprinthub audience and share all
 Sprinthub has a presence on most major social media platforms. Here are our most active accounts and what we usually post on each:
 
 - [Twitter](http://twitter.com/sprinthubmobile): Brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
-- [Facebook](http://facebook.com/sprinthubmobile): Brand marketing, events, media mentions, evergreen content,  “we’re hiring!” posts
+- [Facebook](http://facebook.com/sprinthubmobile): Brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
 - [LinkedIn](http://linkedin.com/company/sprinthubmobile): Recruiting content, media mentions, evergreen content
 - [Instagram](http://instagram.com/sprinthubmobile): Design outtakes, cool office visitors, life at Sprinthub, cool stuff we made
 
@@ -18,7 +18,7 @@ These channels are all managed by the Marketing team. We also have a few team-sp
 
 ## Guidelines
 
-Our writing for social media should generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional pointers, too.
+Our writing for social media should generally follow the style points outlined in the [Voice and tone]({{< ref "guides/02-voice-and-tone.md" >}}) and [Grammar and mechanics]({{< ref "guides/04-grammar-and-mechanics.md" >}}) sections. Here are some additional pointers, too.
 
 ### Write short, but smart
 
