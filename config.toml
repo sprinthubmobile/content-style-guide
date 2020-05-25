@@ -1,4 +1,4 @@
-baseURL = "https://sprinthubmobile.github.io/content-style-guide/"
+baseURL = "https://styleguide.sprinthubmobile.com/"
 languageCode = "en-us"
 title = "Sprinthub Content Style Guide"
 themesDir = "themes"
