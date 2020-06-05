@@ -11,6 +11,12 @@ We have two Sprinthub blogs, the one written by our [engineering](http://medium.
 
 We update the main Sprinthub blog a couple times every week. We generally publish:
 
+Desired articles and suggested titles must be progressive, sharing insight beyond general/introductory knowledge and best practices. Writers are also encouraged to incorporate relevant industry news/current events, advancements, and personal experiences.
+
+Blog post should demonstrate unique, tactical insights based upon your hands-on experience or a thought-provoking point of view.
+
+Sprinthub strives to cover a variety of technology, design and business-related topics that appeal to modern small to medium-sized businesses and their employees. We generally publish:
+
 - How tos, guides, checklists, templates and insights
 - Sprinthub customer case studies
 - Tips and tricks for businesses
