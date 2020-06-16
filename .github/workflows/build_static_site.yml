@@ -26,12 +26,14 @@ jobs:
     - name: Download Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: 'latest'
+        hugo-version: '0.70.0'
         extended: true
         
     # Build the site using Hugo
     - name: Run hugo build
-      run: hugo --destination docs
+      run: |
+        hugo version
+        hugo --destination docs
       
     # Commits the built site to the repository
     - name: Run a multi-line script
