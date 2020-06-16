@@ -22,11 +22,16 @@ jobs:
       with:
         submodules: true
 
-    # Builds the site using Hugo
-    - name: Hugo Actions
-      uses: srt32/hugo-action@v0.0.3
+    # Download Hugo binary
+    - name: Download Hugo
+      uses: peaceiris/actions-hugo@v2
       with:
-        args: "--destination docs"
+        hugo-version: 'latest'
+        extended: true
+        
+    # Build the site using Hugo
+    - name: Run hugo build
+      run: hugo --destination docs
       
     # Commits the built site to the repository
     - name: Run a multi-line script
