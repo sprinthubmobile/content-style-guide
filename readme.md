@@ -6,15 +6,15 @@ If you're looking for the Sprinthub Content Style Guide website, visit [stylegui
 
 Whether or not you work at Sprinthub, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
-## Using the Guide
+## Modifying the Guide
 
-We've set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
-
-## Creating a New File
-
+You can change this guide by adding new files to, or modifying the files in, the `content/guides` directory.
 This guide is a collection of Markdown files. This is a plaintext format that easily converts to HTML. Read more about it [here](http://daringfireball.net/projects/markdown/). Be sure you name your files without spaces with either an `.md` or `.markdown` extension.
 
-The files in this guide are prefixed with a double digit to set order. Make sure your file starts with a number that will place your new content in the desired position (eg: `04-`) and change the prefixes of the other files to reflect this change in order.
+This guide is built using Hugo, the static site generator. Learning how to use Hugo will help
+you become more efficient in modifying this guide.
+
+When changes are committed to the master branch, the guide is updated automatically.
 
 ## Markdown
 
